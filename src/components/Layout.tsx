@@ -31,7 +31,7 @@ const Layout = ({ children }) => {
               <Link href="/">
                 <a className="flex items-center text-gray-900">
                   <div className="rounded-full w-12 h-12 flex items-center justify-center mr-4">
-                 <svg width="75" height="72.059" viewBox="0 0 75 72.059" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                 <svg width="75" height="72.059" viewBox="0 0 75 72.059" fill="none" xmlns="http://www.w3.org/2000/svg" xlink="http://www.w3.org/1999/xlink">
   <path fill="url(#a)" d="M0 0h75v72.059H0z"/>
   <defs>
     <pattern id="a" patternContentUnits="objectBoundingBox" width="1" height="1">
