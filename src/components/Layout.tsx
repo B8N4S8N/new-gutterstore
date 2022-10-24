@@ -37,7 +37,7 @@ const Layout = ({ children }) => {
                       fill="none"
                       xmlns="http://www.w3.org/2000/svg"
                     >
-                      import * as React from "react";
+   
 
     <path fill="url(#a)" d="M0 0h459v441H0z" />
     <defs>
